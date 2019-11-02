@@ -27,7 +27,7 @@
 - [ ] Adding music lyrics API.
 
 ## TOADD 
-- [] Sound recognition to manage music playing 
+- [ ] Sound recognition to manage music playing 
 ## Tools & languages: 
 
 * IntellijIdea (IDE).
