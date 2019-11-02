@@ -26,6 +26,8 @@
 - [ ] Making the music visualizer better.
 - [ ] Adding music lyrics API.
 
+## TOADD 
+- [] Sound recognition to manage music playing 
 ## Tools & languages: 
 
 * IntellijIdea (IDE).
